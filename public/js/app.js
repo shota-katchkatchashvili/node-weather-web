@@ -1,6 +1,3 @@
-console.log('Client side js')
-
-
 const form = document.querySelector('form')
 const input = document.querySelector('input')
 const message1 = document.querySelector('#message-1')
